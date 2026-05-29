@@ -135,4 +135,4 @@ Compatible with all major LLM platforms:
 
 ## 📄 License
 
-This project is intended for portfolio and educational use. Please contact the author for commercial licensing enquiries.
+This project is intended for portfolio and educational use.
